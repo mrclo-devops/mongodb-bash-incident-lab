@@ -1,0 +1,7 @@
+[
+  {"incidentId":"INC-1001","service":"payments-api","severity":"P1","status":"resolved","responseTime":5032,"category":"timeout","createdAt":{"$date":"2026-08-13T09:02:33Z"}},
+  {"incidentId":"INC-1002","service":"auth-service","severity":"P2","status":"resolved","responseTime":145,"category":"authentication","createdAt":{"$date":"2026-08-13T09:03:47Z"}},
+  {"incidentId":"INC-1003","service":"webhook-worker","severity":"P2","status":"open","responseTime":1240,"category":"delivery","createdAt":{"$date":"2026-08-13T09:06:21Z"}},
+  {"incidentId":"INC-1004","service":"payments-api","severity":"P1","status":"open","responseTime":3210,"category":"database","createdAt":{"$date":"2026-08-13T09:09:10Z"}},
+  {"incidentId":"INC-1005","service":"webhook-worker","severity":"P2","status":"investigating","responseTime":5001,"category":"timeout","createdAt":{"$date":"2026-08-13T09:12:06Z"}}
+]
